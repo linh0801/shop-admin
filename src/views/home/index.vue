@@ -5,8 +5,7 @@
 </template>
 
 <script setup lang="ts">
-import user from '@/api/User'
-console.log(user)
+
 </script>
 
 <style scoped lang="scss">

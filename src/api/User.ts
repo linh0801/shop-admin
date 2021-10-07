@@ -1,2 +1,3 @@
-const user = 'lnh'
-export default user
+/**
+ * 用户相关接口请求模块
+*/
